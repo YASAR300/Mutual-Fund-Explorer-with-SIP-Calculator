@@ -65,11 +65,23 @@ npm run dev
 ```
 
 4. **Open your browser**
-Navigate to [http://localhost:3000](http://localhost:3000)
+Navigate to [http://localhost:3000](http://localhost:3000) or visit the live demo below
 
 ### 🚀 Deploy to Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-repo/mutual-fund-explorer)
+
+### 🌐 Try Live Demo
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-Visit_Now-blue?style=for-the-badge&logo=vercel)](https://mutual-fund-explorer-with-sip-calcu-mu.vercel.app/)
+
+<a href="https://mutual-fund-explorer-with-sip-calcu-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Open_App-New_Tab-green?style=for-the-badge&logo=vercel" alt="Open Live Demo" />
+</a>
+
+</div>
 
 ## 🔧 API Routes
 
@@ -157,6 +169,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Try_Live_Demo-Visit_Now-green?style=for-the-badge&logo=vercel)](https://mutual-fund-explorer-with-sip-calcu-mu.vercel.app/)
+### 🎯 Quick Access
+
+<a href="https://mutual-fund-explorer-with-sip-calcu-mu.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🚀_Launch_App-Live_Demo-success?style=for-the-badge&logo=vercel" alt="Launch Live Demo" />
+</a>
+
+<a href="https://mutual-fund-explorer-with-sip-calcu-mu.vercel.app/funds" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📊_Browse_Funds-Direct_Link-blue?style=for-the-badge&logo=chart-bar" alt="Browse Funds" />
+</a>
 
 </div>
